@@ -44,6 +44,7 @@ public class Main {
                         System.out.println("Если возраст человека равен " + age1 + " , то ему нужно ходить  на работу");
                     }
 
+
                     //task 5
                     System.out.println("Задача 5");
                 }
